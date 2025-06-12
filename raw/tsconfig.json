@@ -37,7 +37,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/lib/cva.js"  ],
   "exclude": [
     "node_modules"
   ]
