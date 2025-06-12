@@ -1,0 +1,1 @@
+"use strict";window.Stripe=()=>({elements:()=>({create:()=>({})})});window.Stripe._registerWrapper=()=>{};
